@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Personal Portfolio</title>
+    <title>Krisha Portfolio</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-gray-100">
@@ -23,7 +23,7 @@
     
     <!-- Hero Section -->
     <section class="text-center py-20 bg-blue-500 text-white">
-        <h2 class="text-4xl font-bold">Hello, I'm John Doe</h2>
+        <h2 class="text-4xl font-bold">Hello, I'm Shah Krisha</h2>
         <p class="mt-4 text-lg">A Web Developer specializing in Tailwind CSS</p>
     </section>
     
@@ -57,7 +57,7 @@
     <!-- Contact Section -->
     <section id="contact" class="container mx-auto py-20 px-6 text-center">
         <h2 class="text-3xl font-bold">Contact Me</h2>
-        <p class="mt-4 text-gray-700">Email: johndoe@example.com</p>
+        <p class="mt-4 text-gray-700">Email: krishah@example.com</p>
     </section>
     
     <!-- Footer -->
